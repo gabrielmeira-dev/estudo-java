@@ -5,6 +5,7 @@ Este repositório foi criado para documentar minha jornada de aprendizado na lin
 O foco principal é consolidar o conhecimento em Programação Orientada a Objetos (POO), manipulação de dados e integração com ferramentas de mercado para desenvolvimento backend.
 
 ## 🛠️ Pré-requisitos e Instalação
+O JDK é um compilador que vai fazer com que o seu código seja utilizado pelo JVM nos seus projetos.
 
 Para uso de estudo estou usando o **JDK 21**. Siga os passos abaixo:
 
