@@ -6,7 +6,7 @@ O foco principal é consolidar o conhecimento em Programação Orientada a Objet
 
 ## 🛠️ Pré-requisitos e Instalação
 
-Para rodar este projeto localmente, você precisará do **JDK 21**. Siga os passos abaixo:
+Para uso de estudo estou usando o **JDK 21**. Siga os passos abaixo:
 
 1. **Download:** Acesse o [site da Oracle](https://www.oracle.com/java/technologies/downloads/#jdk21-windows).
 2. **Sistema:** Escolha a versão correspondente ao seu Sistema Operacional (ex: Windows x64 Installer).
