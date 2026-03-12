@@ -1,5 +1,3 @@
-# estudo-java
-
 # 📚 Estudos Java: Fundamentos e Ecossistema
 Este repositório foi criado para documentar minha jornada de aprendizado na linguagem Java, partindo dos conceitos fundamentais até a construção de APIs robustas com o ecossistema Spring.
 
